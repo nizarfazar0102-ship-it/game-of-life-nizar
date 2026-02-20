@@ -11,13 +11,10 @@ Tujuan
 
 Landasan Teori
 
-Abstract Data Type
 Abstract Data Type (ADT) adalah tipe data yang didefinisikan berdasarkan operasi atau perilakunya, bukan implementasi detailnya. Dengan ADT, programmer dapat fokus pada fungsi yang tersedia.
 
-Array Dua Dimensi
 Array dua dimensi adalah struktur data berbentuk tabel dengan baris dan kolom. Struktur ini sering digunakan untuk simulasi grid, matriks, dan pemodelan sistem.
 
-Game of Life
 Game of Life adalah simulasi sel hidup dan mati pada grid dua dimensi. Setiap sel memiliki delapan tetangga dan berubah kondisi berdasarkan aturan tertentu.
 
 Aturan utama:
@@ -34,7 +31,9 @@ Program dibuat menggunakan Python dengan langkah berikut:
 - Menampilkan simulasi setiap iterasi.
 
 Hasil dan Pembahasan
+
 Program berhasil membuat array dua dimensi sebagai ADT dan menjalankan simulasi Game of Life. Perubahan sel menunjukkan interaksi sederhana dapat menghasilkan pola kompleks.
 
 Kesimpulan
+
 ADT memudahkan pengelolaan struktur data secara sistematis. Array dua dimensi efektif digunakan dalam simulasi grid, dan simulasi Game of Life membantu memahami logika algoritma.
