@@ -34,7 +34,7 @@ Program dibuat menggunakan Python dengan langkah berikut:
 - Menampilkan simulasi setiap iterasi.
 
 Hasil dan Pembahasan
-  Program berhasil membuat array dua dimensi sebagai ADT dan menjalankan simulasi Game of Life. Perubahan sel menunjukkan interaksi sederhana dapat menghasilkan pola kompleks.
+Program berhasil membuat array dua dimensi sebagai ADT dan menjalankan simulasi Game of Life. Perubahan sel menunjukkan interaksi sederhana dapat menghasilkan pola kompleks.
 
 Kesimpulan
-  ADT memudahkan pengelolaan struktur data secara sistematis. Array dua dimensi efektif digunakan dalam simulasi grid, dan simulasi Game of Life membantu memahami logika algoritma.
+ADT memudahkan pengelolaan struktur data secara sistematis. Array dua dimensi efektif digunakan dalam simulasi grid, dan simulasi Game of Life membantu memahami logika algoritma.
