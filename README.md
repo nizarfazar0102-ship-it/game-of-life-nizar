@@ -1,5 +1,6 @@
 LAPORAN TUGAS STRUKTUR DATA
 Implementasi ADT Array pada Simulasi Game of Life
+
 1. Pendahuluan
 Struktur data merupakan bagian penting dalam pemrograman karena berfungsi mengatur penyimpanan dan pengolahan data secara efisien. Salah satu struktur data dasar adalah array, yang sering digunakan untuk menyimpan data secara berurutan. Pada tugas ini dibuat Abstract Data Type (ADT) Array yang kemudian digunakan untuk simulasi Game of Life, yaitu simulasi sel hidup dan mati pada suatu grid dua dimensi.
 1.1 Tujuan
@@ -7,6 +8,7 @@ Struktur data merupakan bagian penting dalam pemrograman karena berfungsi mengat
 - Mengimplementasikan array sebagai struktur data mandiri.
 - Menerapkan array dalam simulasi pemrograman.
 - Melatih logika algoritma.
+
 2. Landasan Teori
 2.1 Abstract Data Type
 Abstract Data Type (ADT) adalah tipe data yang didefinisikan berdasarkan operasi atau perilakunya, bukan implementasi detailnya. Dengan ADT, programmer dapat fokus pada fungsi yang tersedia.
@@ -20,12 +22,15 @@ Aturan utama:
 3. Sel hidup dengan lebih dari tiga tetangga akan mati.
 4. Sel mati dengan tepat tiga tetangga menjadi hidup.
 3. Metodologi
+
 Program dibuat menggunakan Python dengan langkah berikut:
 1. Membuat ADT Array dua dimensi.
 2. Membuat fungsi manipulasi array.
 3. Mengimplementasikan aturan Game of Life.
 4. Menampilkan simulasi setiap iterasi.
+
 4. Hasil dan Pembahasan
 Program berhasil membuat array dua dimensi sebagai ADT dan menjalankan simulasi Game of Life. Perubahan sel menunjukkan interaksi sederhana dapat menghasilkan pola kompleks.
+
 5. Kesimpulan
 ADT memudahkan pengelolaan struktur data secara sistematis. Array dua dimensi efektif digunakan dalam simulasi grid, dan simulasi Game of Life membantu memahami logika algoritma.
